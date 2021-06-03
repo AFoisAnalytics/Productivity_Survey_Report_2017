@@ -20,3 +20,7 @@ Measures Created in DAX:
     - % Challenge Time Management
 
 In M created LastQueryRefresh.
+
+### PowerBI Report
+
+![alt_text](https://github.com/AFoisAnalytics/Productivity_Survey_Report_2017/blob/main/Productivity%20Survey%20Report.png)
